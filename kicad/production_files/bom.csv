@@ -1,0 +1,16 @@
+Designator,Comment,Footprint,JLCPCB Part #
+"C1,C2,C14,C15",100n,Capacitor_SMD:C_0402_1005Metric,
+"C3,C4,C9,C10,C12,C16,C17,C22,C23",100n,Capacitor_SMD:C_0805_2012Metric,
+"C5,C6,C7,C8,C18,C19,C20,C21",1n,Capacitor_SMD:C_0402_1005Metric,
+"C11,C13",1u,Capacitor_SMD:C_0805_2012Metric,
+J1,Conn_02x12_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical_SMD,
+"J2,J3",Conn_02x04_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical_SMD,
+"R1,R2,R3,R20,R21,R22",100,Resistor_SMD:R_0402_1005Metric,
+"R4,R5,R8,R13,R23,R24,R27,R32",4k7,Resistor_SMD:R_0402_1005Metric,
+"R6,R7,R14,R15,R25,R26,R33,R34",8.25k,Resistor_SMD:R_0402_1005Metric,
+"R9,R28",11k,Capacitor_SMD:C_0402_1005Metric,
+"R10,R16,R17,R29,R35,R36",11k,Resistor_SMD:R_0402_1005Metric,
+"R11,R12,R18,R19,R30,R31,R37,R38",33k,Resistor_SMD:R_0402_1005Metric,
+"U1,U5",dacx0004,Package_SO:TSSOP-14_4.4x5mm_P0.65mm,C2679895
+"U2,U3,U6,U7",OPA2188,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,C17271
+U4,REF5025AD,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,

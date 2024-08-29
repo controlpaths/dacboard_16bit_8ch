@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "3e6161f0-2999-431e-8f22-3e0c6208d289")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 160.02 58.42)
+		(size 38.1 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b3c93253-5e23-4423-aa61-a30a278753e2")
+		(property "Sheetname" "voltage_reference"
+			(at 160.02 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "voltage_reference.kicad_sch"
+			(at 160.02 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MT2AO8"
+				(path "/3e6161f0-2999-431e-8f22-3e0c6208d289"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 107.95 58.42)
+		(size 38.1 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d8962ac4-7a7e-498c-aca7-732e96820101")
+		(property "Sheetname" "dac0"
+			(at 107.95 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dac0.kicad_sch"
+			(at 107.95 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MT2AO8"
+				(path "/3e6161f0-2999-431e-8f22-3e0c6208d289"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 48.26 58.42)
+		(size 38.1 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eadd6324-2c89-4bd9-a2c8-884b31864b43")
+		(property "Sheetname" "pin_headers"
+			(at 48.26 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pin_headers.kicad_sch"
+			(at 48.26 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MT2AO8"
+				(path "/3e6161f0-2999-431e-8f22-3e0c6208d289"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 48.26 91.44)
+		(size 38.1 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f6ef4459-2c4c-4b0d-911e-c2a317ec1ff5")
+		(property "Sheetname" "dac1"
+			(at 48.26 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dac1.kicad_sch"
+			(at 48.26 113.6146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MT2AO8"
+				(path "/3e6161f0-2999-431e-8f22-3e0c6208d289"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
